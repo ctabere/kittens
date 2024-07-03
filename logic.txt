@@ -1,0 +1,7 @@
+initial game - api call to get kittens (6,8,10,12)
+
+Pull 6 images at first
+
+Array of pics (hidden) JS and CSS
+Duplicate the imagesRandom order (shuffle) 
+assigen them to kittenCards
