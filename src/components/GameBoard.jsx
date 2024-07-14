@@ -1,4 +1,5 @@
 "use client";
+
 import React, { useState } from "react";
 import KittenCard from "./KittenCard";
 import { getRancomKittens, getRandomKittens } from "@/services";
