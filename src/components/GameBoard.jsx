@@ -20,7 +20,6 @@ const GameBoard = () => {
       console.log("API Response:", responose.images);
     }
   };
-
   useEffect(() => {
     fetchKittens();
   }, []);
