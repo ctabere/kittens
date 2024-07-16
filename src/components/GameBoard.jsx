@@ -24,6 +24,7 @@ const GameBoard = () => {
     fetchKittens();
   }, []);
 
+  //pull down before wed
   return (
     <div className="flex flex-wrap flex-row gap-4 justify-center w-full">
       {kittens.map((kitten) => (
