@@ -1,5 +1,5 @@
 import React from 'react'
-import GameBoard from '@/components/Gameboard';
+import GameBoard from '@/components/GameBoard';
 
 const Game = () => {
   return (
